@@ -1,7 +1,8 @@
-# Project
+# The Impact of Large Language Models on Scientific Discovery
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+> Microsoft Research AI4Science
+> 
+> Microsoft Azure Quantum
 
 As the maintainer of this project, please make a few updates:
 
