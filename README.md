@@ -26,19 +26,31 @@ Large language models (LLMs) have showcased remarkable capabilities across a vas
 
 Our exploration methodology primarily consists of **expert-driven case assessments**, which offer qualitative insights into the model's comprehension of intricate scientific concepts and relationships, and occasionally **benchmark testing**, which quantitatively evaluates the model's capacity to solve well-defined domain-specific problems. Our preliminary exploration indicates that **GPT-4 exhibits promising potential for a variety of scientific applications, demonstrating its aptitude for handling complex problem-solving and knowledge integration tasks**. Broadly speaking, we evaluate GPT-4's knowledge base, scientific understanding, scientific numerical calculation abilities, and various scientific prediction capabilities.
 
-## Motivation of this repo (call for participation)
+# ❤️Contribution Invitation (call for participation)
 Though we have initially conducted some preliminary experiments to explore the application prospects of LLM models in scientific discovery (case analyses can be found in our [report](https://arxiv.org/abs/2311.07361)). However, we recognize that this is still far from enough, and the potential of LLM models in this field remains to be tapped.
 
 ***Therefore, we hope to advance the development of LLM in scientific discovery through the joint efforts of our community. We have created this GitHub repository to collect interesting findings and feedback on LLM's current capabilities from community members in their exploration process.***
 
-Whether you have relevant expertise or not, as long as you think LLM may have value in scientific discovery and hope this area can be further optimized, you are welcome to join us. Every sharing and suggestion will provide reference value for LLM applications in this field. 
+We invite all researchers interested in advancing the capabilities of large language models for scientific discovery applications. Whether you have relevant expertise or not, as long as you think LLM may have value in scientific discovery and hope this area can be further optimized, you are welcome to join us. Every sharing and suggestion will provide reference value for LLM applications in this field. 
 Let us work together to explore new frontiers of LLM applications in scientific discovery! 
 
-**We look forward to your participation and sharing.**
-For a template and the details on how to structure your contributions, please refer to [Contribution Invitation](#contribution-invitation).
+Some goals of this ongoing project include:
+
+* Reporting novel findings or use cases uncovered through rigorous testing and experimentation
+* Providing feedback to help prioritize model enhancements that address key limitations
+* Proposing new evaluation benchmarks and experimental protocols
+* Discussing interdisciplinary research opportunities and challenges
+* Connecting domain experts with NLP researchers to foster collaboration
+
+
+# ❗Important on how you can contribute
+To contribute your discovery, for a template and the details on how to structure your contributions, please see the [Discussions](https://github.com/microsoft/LLM4ScientificDiscovery/discussions) channel and [here](https://github.com/microsoft/LLM4ScientificDiscovery/discussions/2#discussion-6071507) is a specific case a template. 
+
+**We look forward to your participation and sharing!**
+
 
 # Observation and Summary
-We first summarize what we have observed in our report to let you have some initial understanding of our evaluation.
+We summarize what we have observed in our report to let you have some initial understanding of our evaluation.
 👍represents strength of the abilities, 😵 represents the abilities need to be improved. 
 
 ## Drug Discovery
@@ -97,14 +109,18 @@ We first summarize what we have observed in our report to let you have some init
 
 
 
-# Contribution Invitation
 
+# Contact
+If you have any questions or suggestions, look forward to your messages through the discussion channel or email [llm4sciencediscovery@microsoft.com](mailto:llm4sciencediscovery@microsoft.com).
 
-
-# Trademarks
-
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+Contact people: Tao Qin ([taoqin@microsoft.com](mailto:taoqin@microsoft.com)), Lijun Wu ([lijuwu@microsoft.com](mailto:lijuwu@microsoft.com)).
+```
+@misc{ai4science2023impact,
+      title={The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4}, 
+      author={Microsoft Research AI4Science and Microsoft Azure Quantum},
+      year={2023},
+      eprint={2311.07361},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
