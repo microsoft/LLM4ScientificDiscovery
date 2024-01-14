@@ -17,9 +17,28 @@ A Preliminary Study using GPT-4
   <img src="overview.png" width="1000">
 </p>
 
-Groundbreaking advancements in NLP have culminated in the emergence of powerful large language models (LLMs), which have showcased remarkable capabilities across a vast array of domains. In this report, we delve into the performance of **LLMs within the context of scientific discovery**, focusing on GPT-4. Our investigation spans a diverse range of scientific areas encompassing **drug discovery, biology, computational chemistry (density functional theory (DFT) and molecular dynamics (MD)), materials design, and partial differential equations (PDE)**. Evaluating GPT-4 on scientific tasks is crucial for uncovering its potential across various research domains, validating its domain-specific expertise, accelerating scientific progress, optimizing resource allocation, guiding future model development, and fostering interdisciplinary research. Our exploration methodology primarily consists of expert-driven case assessments, which offer qualitative insights into the model's comprehension of intricate scientific concepts and relationships, and occasionally benchmark testing, which quantitatively evaluates the model's capacity to solve well-defined domain-specific problems. Our preliminary exploration indicates that **GPT-4 exhibits promising potential for a variety of scientific applications, demonstrating its aptitude for handling complex problem-solving and knowledge integration tasks**. Broadly speaking, we evaluate GPT-4's knowledge base, scientific understanding, scientific numerical calculation abilities, and various scientific prediction capabilities.
+Large language models (LLMs) have showcased remarkable capabilities across a vast array of domains. In this report, we delve into the performance of **LLMs within the context of scientific discovery**, focusing on GPT-4. Our investigation spans a diverse range of scientific areas encompassing:
+* [Drug discovery](#drug-discovery)
+* [Biology](#biology)
+* [Computational chemistry](#computational-chemistry) (density functional theory (DFT) and molecular dynamics (MD))
+* [Materials design](#materials-design)
+* [Partial differential equations](#partial-differential-equations) (PDE)
+
+Our exploration methodology primarily consists of **expert-driven case assessments**, which offer qualitative insights into the model's comprehension of intricate scientific concepts and relationships, and occasionally **benchmark testing**, which quantitatively evaluates the model's capacity to solve well-defined domain-specific problems. Our preliminary exploration indicates that **GPT-4 exhibits promising potential for a variety of scientific applications, demonstrating its aptitude for handling complex problem-solving and knowledge integration tasks**. Broadly speaking, we evaluate GPT-4's knowledge base, scientific understanding, scientific numerical calculation abilities, and various scientific prediction capabilities.
+
+## Motivation of this repo (call for participation)
+Though we have initially conducted some preliminary experiments to explore the application prospects of LLM models in scientific discovery (case analyses can be found in our [report](https://arxiv.org/abs/2311.07361)). However, we recognize that this is still far from enough, and the potential of LLM models in this field remains to be tapped.
+
+***Therefore, we hope to advance the development of LLM in scientific discovery through the joint efforts of our community. We have created this GitHub repository to collect interesting findings and feedback on LLM's current capabilities from community members in their exploration process.***
+
+Whether you have relevant expertise or not, as long as you think LLM may have value in scientific discovery and hope this area can be further optimized, you are welcome to join us. Every sharing and suggestion will provide reference value for LLM applications in this field. 
+Let us work together to explore new frontiers of LLM applications in scientific discovery! 
+
+**We look forward to your participation and sharing.**
+For a template and the details on how to structure your contributions, please refer to [Contribution Invitation](#contribution-invitation).
 
 # Observation and Summary
+We first summarize what we have observed in our report to let you have some initial understanding of our evaluation.
 👍represents strength of the abilities, 😵 represents the abilities need to be improved. 
 
 ## Drug Discovery
@@ -68,7 +87,7 @@ Groundbreaking advancements in NLP have culminated in the emergence of powerful 
 
 
 
-## Partial Differential Equation
+## Partial Differential Equations
 * 👍***PDE Concepts***: GPT-4 demonstrates its awareness of fundamental PDE concepts, thereby enabling researchers to gain a deeper understanding of the PDEs they are working with. It can serve as a helpful resource for teaching or mentoring students, enabling them to better understand and appreciate the importance of PDEs in their academic pursuits and research endeavors. 
 * 👍***Concept Relationships***: The model is capable of discerning relationships between concepts, which may aid mathematicians in broadening their perspectives and intuitively grasping connections across different subfields. 
 * 👍***Solution Recommendations***: GPT-4 can recommend appropriate analytical and numerical methods for addressing various types and complexities of PDEs. Depending on the specific problem, it can suggest suitable techniques for obtaining either exact or approximate solutions..
