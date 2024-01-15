@@ -108,6 +108,66 @@ We summarize what we have observed in our report to let you have some initial un
 * 😵***Hallucinations Awareness***: GPT-4 may occasionally erroneously cite non-existent references. Researchers should cross-check citations and be aware of this limitation to ensure the accuracy and reliability of the information provided by the model. 
 
 
+# Related Survey/Evaluation
+* **What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks**  
+Taicheng Guo, Kehan Guo, Bozhao Nan, Zhenwen Liang, Zhichun Guo, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang  
+*NeurIPS Datasets and Benchmarks Track, December 2023.*  
+[![](https://img.shields.io/badge/neurips_workshop-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://arxiv.org/abs/2305.18365](https://arxiv.org/abs/2305.18365))
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F20d7965c0b282a0cd7f990e435d0f6bc9535bbc6%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models**  
+Xiaoxuan Wang, Ziniu Hu, Pan Lu, Yanqiao Zhu, Jieyu Zhang, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang  
+*Arxiv, July 2023.*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://arxiv.org/abs/2307.10635](https://arxiv.org/abs/2307.10635))
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4993258852711c4e3d0011325ac3db680eae84f4%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **SciEval: A Multi-Level Large Language Model Evaluation Benchmark for Scientific Research**  
+Liangtai Sun, Yang Han, Zihan Zhao, Da Ma, Zhennan Shen, Baocai Chen, Lu Chen, Kai Yu  
+*Arxiv, August 2023.*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://arxiv.org/abs/2308.13149](https://arxiv.org/abs/2308.13149))
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff53a955ea1812fb0481504fdfd8febcb2a553a45%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Do Large Language Models Understand Chemistry? A Conversation with ChatGPT**  
+Cayque Monteiro Castro Nascimento, André Silva Pimentel  
+*J. Chem. Inf. Model, March 2023.*  
+[![](https://img.shields.io/badge/JCIM-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285))
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F23d01461a54505705649c1f5378f81dcd524d46c%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Language models in molecular discovery**  
+Nikita Janakarajan, Tim Erdmann, Sarath Swaminathan, T. Laino, Jannis Born  
+*Arxiv, September 2023.*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://arxiv.org/abs/2309.16235](https://arxiv.org/abs/2309.16235))
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1fff185d1915ca76e8e2b621ed5bcc45ac2d559e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **ChemCrow: Augmenting large-language models with chemistry tools**  
+Andrés M Bran, Sam Cox, Oliver Schilter, Carlo Baldassari, Andrew D. White, P. Schwaller  
+*Arxiv, April 2023.*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://arxiv.org/abs/2304.05376](https://arxiv.org/abs/2304.05376))
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F354dcdebf3f8b5feeed5c62090e0bc1f0c28db06%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **ChatGPT Chemistry Assistant for Text Mining and the Prediction of MOF Synthesis**  
+Zhiling Zheng, Oufan Zhang, Christian Borgs, Jennifer T. Chayes, and Omar M. Yaghi  
+*J. Am. Chem. Soc., August 2023.*  
+[![](https://img.shields.io/badge/JACS-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://pubs.acs.org/doi/10.1021/jacs.3c05819](https://pubs.acs.org/doi/10.1021/jacs.3c05819))
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb33577b6624da43765d215d9954531e3c7e48e52%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **A Comprehensive Evaluation of Large Language Models on Benchmark Biomedical Text Processing Tasks**  
+Israt Jahan, Md Tahmid Rahman Laskar, Chun Peng, Jimmy Huang  
+*Arxiv, October 2023.*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://arxiv.org/ftp/arxiv/papers/2310/2310.04270.pdf](https://arxiv.org/ftp/arxiv/papers/2310/2310.04270.pdf))
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7b5b7aefc727bdf1e73efdd65af539d79628230a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology**  
+Odhran O'Donoghue, Aleksandar Shtedritski, John Ginger, Ralph Abboud, Ali Essa Ghareeb, Justin Booth, Samuel G Rodriques  
+*EMNLP, October 2023.*  
+[![](https://img.shields.io/badge/EMNLP-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://aclanthology.org/2023.emnlp-main.162/](https://aclanthology.org/2023.emnlp-main.162/))
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1efb48995732f58dbf2e251bfdf8571545033db9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon**  
+K. Jablonka, Qianxiang Ai, Alexander H Al-Feghali, S. Badhwar, Joshua D. Bocarsly Andres M Bran, S. Bringuier, L. Brinson, K. Choudhary, Defne Çirci, Sam Cox, W. D. Jong, Matthew L. Evans, Nicolas Gastellu, Jérôme Genzling, M. Gil, Ankur Gupta, Zhi Hong, A. Imran, S. Kruschwitz, A. Labarre, Jakub L'ala, Tao Liu, Steven Ma, Sauradeep Majumdar, G. Merz, N. Moitessier, E. Moubarak, B. Mouriño, Brenden G. Pelkie, M. Pieler, Mayk C. Ramos, Bojana Rankovi'c, Samuel G. Rodriques, J. N. Sanders, P. Schwaller, Marcus Schwarting, Jia-Xin Shi, B. Smit, Benn Smith, J. V. Heck, C. Volker, Logan T. Ward, S. Warren, B. Weiser, Sylvester Zhang, Xiaoqi Zhang, Ghezal Ahmad Jan Zia, A. Scourtas, K. Schmidt, Ian T. Foster, Andrew D. White, B. Blaiszik.   
+*Digital Discovery, June 2023.*  
+[![](https://img.shields.io/badge/DigDis-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://pubs.rsc.org/en/content/articlepdf/2023/dd/d3dd00113j](https://pubs.rsc.org/en/content/articlepdf/2023/dd/d3dd00113j))
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F822f41fdb57c57db614a27936474644daf12b715%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 
 # Contact
