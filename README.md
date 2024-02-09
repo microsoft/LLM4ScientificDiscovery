@@ -169,6 +169,8 @@ K. Jablonka, Qianxiang Ai, Alexander H Al-Feghali, S. Badhwar, Joshua D. Bocarsl
 [![](https://img.shields.io/badge/DigDis-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://pubs.rsc.org/en/content/articlepdf/2023/dd/d3dd00113j](https://pubs.rsc.org/en/content/articlepdf/2023/dd/d3dd00113j))
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F822f41fdb57c57db614a27936474644daf12b715%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
+# License
+This repo is [MIT-licensed](https://github.com/microsoft/LLM4ScientificDiscovery/tree/main?tab=MIT-1-ov-file).
 
 # Contact
 If you have any questions or suggestions, look forward to your messages through the discussion channel or email [llm4sciencediscovery@microsoft.com](mailto:llm4sciencediscovery@microsoft.com).
